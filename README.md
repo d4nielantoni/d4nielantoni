@@ -1,4 +1,4 @@
-### Hi there! I'm Daniel Antoni👋
+### Hi there!👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7100F7&random=false&width=435&lines=Welcome+to+my+profile;My+name+is+Daniel+Antoni;I'm+from+Brazil.)](https://git.io/typing-svg)
 
 You can find me on:
