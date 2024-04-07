@@ -8,7 +8,6 @@ You can find me on:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d4nielantoni&bg_color=000000&color=ff00ff&line=ff00f7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4nielantoni" alt="d4nielantoni" /></a> </p>
 
