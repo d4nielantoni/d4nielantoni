@@ -1,6 +1,6 @@
 ### Hi there!👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED0FF7&center=true&random=false&width=435&lines=Welcome+to+my+profile;My+name+is+Daniel+Antoni;I'm+from+Brazil)](https://git.io/typing-svg)
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel-antoni-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-antoni-" height="30" width="40" /></a>
