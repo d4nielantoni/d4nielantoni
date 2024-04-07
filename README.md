@@ -6,6 +6,7 @@
 <a href="https://linkedin.com/in/daniel-antoni-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-antoni-" height="30" width="40" /></a>
 <a href="https://instagram.com/daniel_antoni_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel_antoni_" height="30" width="40" /></a>
 </p>
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d4nielantoni&bg_color=000000&color=ff00ff&line=ff00f7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
