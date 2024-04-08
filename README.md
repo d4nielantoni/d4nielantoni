@@ -1,6 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED0FF7&center=true&random=false&width=435&lines=Hey,+My+name+is+Daniel+Antoni;I'm+from+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED0FF7&center=true&random=false&width=435&lines=Hey,+my+name+is+Daniel+Antoni;I'm+from+Brazil)](https://git.io/typing-svg)
 <br>
+<p align="left">My name is Daniel Antoni, I'm from Brazil, but I already lived in Argentina, so I can speak Spanish. I've been studying English since I was little, so I can speak English too.  I am currently studying Software Engnerning. At the moment my studies are focused in Data Analisys. I really enjoy spending my time doing some programming challenges and playing with my cats.  This is a little about me, thank you for stopping by :)</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel-antoni-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-antoni-" height="30" width="40" /></a>
