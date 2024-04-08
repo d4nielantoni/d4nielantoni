@@ -1,5 +1,5 @@
-### Hi there!👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED0FF7&center=true&random=false&width=435&lines=Welcome+to+my+profile;My+name+is+Daniel+Antoni;I'm+from+Brazil)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED0FF7&center=true&random=false&width=435&lines=Hey,+My+name+is+Daniel+Antoni;I'm+from+Brazil)](https://git.io/typing-svg)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
