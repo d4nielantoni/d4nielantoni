@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED0FF7&center=true&random=false&width=435&lines=Hey,+my+name+is+Daniel+Antoni;I'm+from+Brazil)](https://git.io/typing-svg)
 <hr>
-<p align="left">My name is Daniel Antoni, I'm from Brazil, but I already lived in Argentina, so I can speak Spanish. I've been studying English since I was little, so I can speak English too.  I am currently a software engineering student. At the moment my studies are focused in Data Analisys. I really enjoy spending my time doing some programming challenges and playing with my cats.  This is a little bit about me, thanks for stopping by :) </p>
+<p align="left">My name is Daniel Antoni, I'm from Brazil, but I already lived in Argentina, so I can speak Spanish. I've been studying English since I was little, so I can speak English too.  I am currently a software engineering student. At the moment my studies are focused in Data Analisys. I really enjoy spending my time doing some programming challenges and playing with my cats.  This is a little bit about me, thanks for stopping by :)</p>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
