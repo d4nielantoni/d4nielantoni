@@ -25,9 +25,11 @@
 <hr>
 
 <div align ="center">
-<p>&nbsp;<img align="left" widht="49%" src="https://github-readme-stats.vercel.app/api?username=d4nielantoni&show_icons=true&locale=en" alt="d4nielantoni"/></p>
+<p>&nbsp;<img align="center" widht="49%" src="https://github-readme-stats.vercel.app/api?username=d4nielantoni&show_icons=true&locale=en" alt="d4nielantoni"/></p>
+<hr>
 
-<p><img align="left" widht="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=d4nielantoni&show_icons=true&locale=en&layout=compact" alt="d4nielantoni" /></p>
+<br>
+<p><img align="center" widht="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=d4nielantoni&show_icons=true&locale=en&layout=donut" alt="d4nielantoni" /></p>
 
 </div>
 
