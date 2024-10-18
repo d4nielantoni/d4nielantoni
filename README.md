@@ -43,7 +43,7 @@
 <hr>
 
 <div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api?username=d4nielantoni&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/></p>
+<!--    <p><img src="https://github-readme-stats.vercel.app/api?username=d4nielantoni&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/></p>
 </div>
 
 <hr>
